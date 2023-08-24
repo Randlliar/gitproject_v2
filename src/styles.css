@@ -3,6 +3,8 @@ h1 {
     background-color: black;
 }
 span {
+    color: gray;
+    border: 1px solid blue;
     color: brown;
 }
 p {
